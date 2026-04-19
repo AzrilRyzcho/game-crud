@@ -1,6 +1,6 @@
-# 🎮 Game CRUD - Laravel 8
+# 🎮 Game CRUD - Laravel
 
-Aplikasi sederhana CRUD (Create, Read, Update, Delete) untuk mengelola data game menggunakan Laravel 8.
+Aplikasi sederhana CRUD (Create, Read, Update, Delete) untuk mengelola data game menggunakan Laravel.
 
 ---
 
